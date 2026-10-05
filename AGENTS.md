@@ -99,10 +99,15 @@ Use appropriate artifact/design tooling to create the interior and cover from ap
 
 Goal: verify the actual final files against current official KDP print requirements.
 
-### Gate I — Discoverability / listing
-`kdp-keyword-metadata-optimizer` after the product is sufficiently defined; final metadata must match the finished book.
+### Gate I — Economics / discoverability / listing
+`kdp-product-economics-planner → kdp-keyword-metadata-optimizer → kdp-category-positioning → kdp-listing-copywriter`
 
-Future category/listing/launch skills may be added when the workflow reaches those stages. Do not block product development merely because future automation is not yet built.
+Goal: price from current printing/royalty rules, choose accurate discovery metadata/categories, and write listing copy that matches the finished book.
+
+### Gate J — Final publishing package
+`kdp-publishing-package-validator`
+
+Goal: reconcile final files, metadata, categories, pricing, rights, AI disclosure, specialist QA, and human proof/preview status before publication.
 
 ## Market-research guardrails
 
@@ -162,8 +167,12 @@ Where practical, do not let the same reasoning pass both create and certify:
 - `children-workbook-editor`
 
 ### Publishing / production QA
+- `kdp-product-economics-planner`
 - `kdp-keyword-metadata-optimizer`
+- `kdp-category-positioning`
+- `kdp-listing-copywriter`
 - `kdp-print-preflight`
+- `kdp-publishing-package-validator`
 
 ## Third-party material
 
