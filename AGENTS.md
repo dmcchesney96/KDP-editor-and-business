@@ -91,8 +91,12 @@ and, for substantive Bible content,
 
 Goal: creators do not self-certify. Resolve blockers before final production.
 
-### Gate G — Production
-Use appropriate artifact/design tooling to create the interior and cover from approved specs. Do not invent a repository skill merely to replace a capable artifact tool.
+### Gate G — Design system / cover strategy / production
+`kdp-interior-design-system + kdp-cover-strategy`
+
+Goal: convert approved architecture and market evidence into reusable interior visual rules and a cover creative brief before artifact generation.
+
+Then use appropriate artifact/design tooling to create the interior and cover from approved specs. Do not invent a repository skill merely to replace a capable artifact tool.
 
 ### Gate H — Print preflight
 `kdp-print-preflight`
@@ -165,6 +169,10 @@ Where practical, do not let the same reasoning pass both create and certify:
 - `kdp-workbook-architect`
 - `activity-design-generator`
 - `children-workbook-editor`
+
+### Design strategy
+- `kdp-interior-design-system`
+- `kdp-cover-strategy`
 
 ### Publishing / production QA
 - `kdp-product-economics-planner`
