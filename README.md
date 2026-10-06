@@ -41,3 +41,9 @@ For KDP policy, metadata limits, file requirements, content rules, and publishin
 6. Anecdotes and unverified claims
 
 Never present an estimate, scraped metric, or heuristic as an Amazon-confirmed fact.
+
+## Project playbooks
+
+Project-specific strategy can live under `projects/` without changing the reusable KDP skills.
+
+- `projects/slow-with-jesus/market-launch-playbook.md` — approved positioning, keyword architecture, Amazon listing strategy, ad experiments, product-targeting seeds, and series reuse rules for the Slow With Jesus Gospel journals.
