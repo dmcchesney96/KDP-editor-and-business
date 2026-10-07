@@ -1,0 +1,4 @@
+interface:
+  display_name: "KDP Listing Handoff"
+  short_description: "Prepare and execute verified KDP listing handoffs"
+  default_prompt: "Use $kdp-listing-handoff to prepare this book for a verified KDP draft upload."

@@ -1,0 +1,13 @@
+# Paperback execution and recovery
+
+1. Inspect the relevant Bookshelf title and record draft/live status. Resume the matching draft; compare title, author, trim, and format before writing. Create only if there is no matching title.
+2. Details: exact title/subtitle, approved author, language, original-work rights decision, accurate description, audience, age, keywords, and current relevant categories. Low-content classification depends on actual content; varied children's activities are generally not low-content under official guidance. Do not inherit an ISBN decision from a notebook workflow.
+3. Content: chosen ISBN route, ink/paper, trim, interior bleed, cover finish. Upload only the role `interior` file and the role `cover` file. The cover is one page containing back/spine/front; an 81-page home-print file is not an 80-page interior.
+4. AI disclosure: follow current KDP definitions. AI-created text or images count as generated even after substantial editing. Cover and interior illustrations are included. Record tools and known extent; if legacy provenance is missing, resolve it rather than guessing a narrower disclosure.
+5. Previewer: allow processing; verify every page, trim, gutter, barcode, spine folds, clipping, fonts, and color. Record errors, processed page count, and acceptance. Reconcile an official template mismatch before proceeding.
+6. Pricing: reread print cost and marketplace royalty threshold. Compare estimates to live amounts. Territories require the owner's rights decision. Paid proof orders require current purchase authorization; show a concrete order and costs first if not already authorized.
+7. Proof: project-required human checks include crayon usability, opening/gutter comfort, dotted-line visibility, faces, counting answers, color, and cover trim. Record findings and revisions. If the proof changes page count or paper, regenerate the cover.
+8. Publication: confirm current scope and prerequisites; submit only when authorized. Capture submission state, then later verify public ASIN, detail-page metadata, sample, and indexing. Do not treat a saved draft as publication.
+9. Optional launch: Author Central and A+ assets can use approved actual samples. Advertising is a separate spending action. Ask for actual KDP/Amazon Ads exports when the user requests performance analysis; do not infer traffic from royalties.
+
+Recovery: take a fresh state after UI changes. Re-read before repeating a failed save. Check whether a click already completed before retrying. Stop an authentication loop for user handoff; never bypass MFA. For dimension errors, compare settings, processed count, and official template. Keep a checkpoint so another session can resume without duplicates.

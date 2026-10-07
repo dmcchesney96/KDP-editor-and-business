@@ -1,0 +1,4 @@
+interface:
+  display_name: "KDP Listing Experiment Review"
+  short_description: "Review actual KDP and Amazon Ads performance"
+  default_prompt: "Use $kdp-listing-experiment-review to review this book’s real launch reports and recommend the next test."

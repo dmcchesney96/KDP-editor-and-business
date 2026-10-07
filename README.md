@@ -47,3 +47,12 @@ Never present an estimate, scraped metric, or heuristic as an Amazon-confirmed f
 Project-specific strategy can live under `projects/` without changing the reusable KDP skills.
 
 - `projects/slow-with-jesus/market-launch-playbook.md` — approved positioning, keyword architecture, Amazon listing strategy, ad experiments, product-targeting seeds, and series reuse rules for the Slow With Jesus Gospel journals.
+
+
+## File-backed listing handoffs
+
+- `skills/kdp-listing-handoff/` — verified file roles/hashes, recoverable draft/upload checkpoints, and live KDP/proof gates.
+- `skills/kdp-listing-experiment-review/` — actual report normalization, weighted Ads metrics, and measured listing experiments.
+- `projects/abc-of-the-bible/launch-handoff.md` — current activity-book positioning, print spec, metadata hypotheses, and pending launch gates.
+
+Large project print files remain in the owner’s project folder. Repository instructions and public observations are not account analytics.

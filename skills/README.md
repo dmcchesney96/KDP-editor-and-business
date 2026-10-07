@@ -42,3 +42,10 @@ For an explicit full children's Christian workbook project, default sequence:
 Do not chain every skill for a simple question. Do not mass-generate pages before architecture. Do not let creation substitute for independent QA.
 
 Current official Amazon KDP documentation outranks stale repository rules. Subject-matter research should use the strongest available sources for that domain.
+
+## Listing execution and learning
+
+20. `kdp-listing-handoff` — final project files + metadata → hash-verified, logged paperback draft/upload workflow.
+21. `kdp-listing-experiment-review` — actual KDP/Ads reports → weighted metrics and a bounded one-variable experiment.
+
+These supplement `kdp-publishing-package-validator`; a local file PASS is not KDP Previewer acceptance or physical proof approval. Respect the user's current authorization for draft, proof, publication, and advertising separately. Never infer account conversion from public rank or repository instructions.
