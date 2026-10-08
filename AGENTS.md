@@ -194,3 +194,10 @@ When adapting third-party open-source material:
 Initial market-research methods draw from MIT-licensed `rxpelle/kdp-scout`. See `docs/kdp-scout-adaptation.md` and `THIRD_PARTY_NOTICES.md`.
 
 The unrelated `kyverno/KDP` repository is a Kyverno Design Proposal repository, not an Amazon KDP publishing toolkit, and is not part of this system.
+
+## Gate K — Live portfolio learning (after launch)
+`kdp-portfolio-optimization → kdp-listing-experiment-review` (with `kdp-keyword-metadata-optimizer`, `kdp-category-positioning`, `kdp-cover-strategy` or `kdp-product-economics-planner` only for the indicated diagnosis).
+
+Treat KDP Orders exports as processed print shipments, not real-time checkout traffic. KDP does not expose organic impressions, product page views or organic conversion rates in ordinary reports. Amazon Ads data measures **paid** traffic and attributed events; Ads search terms are click-associated only. Missing data is always unknown, never zero. Never add ads-attributed orders to KDP units. Require explicit approval for live metadata changes, ads budgets, campaign launches and publication, independent of research requests. Keep account exports private and preserve time-window/source provenance. See `skills/kdp-portfolio-optimization/SKILL.md`, `portfolio/catalog.json`, and `portfolio/README.md`.
+
+Publishing cadence: verify current KDP rules before submission; as of 2026-10-08 the published rule is up to two new title **creations** and two new **first submissions** per format per UTC week (separate caps), reset Sunday 00:00 UTC. Already-submitted title updates do not consume new-title first-submission quota. Current official source: https://kdp.amazon.com/en_US/help/topic/G202172740
