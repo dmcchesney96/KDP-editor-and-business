@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "as_reported_on": "2026-10-08",
+  "source": "OWNER_REPORT",
+  "books": [
+    {
+      "id": "foundations-1",
+      "working_title": "Gospel Foundations — Part 1",
+      "format": "paperback",
+      "marketplace": "Amazon.com",
+      "status": "live",
+      "first_live_date": null,
+      "asin": null,
+      "amazon_url": null,
+      "series": "Gospel Foundations",
+      "notes": "Owner reports live around one week and zero purchases; no KDP export, traffic or live-date proof supplied."
+    },
+    {
+      "id": "foundations-2",
+      "working_title": "Gospel Foundations — Part 2",
+      "format": "paperback",
+      "marketplace": "Amazon.com",
+      "status": "live",
+      "first_live_date": null,
+      "asin": null,
+      "amazon_url": null,
+      "series": "Gospel Foundations",
+      "notes": "Owner reports live around one week and zero purchases; no KDP export, traffic or live-date proof supplied."
+    },
+    {
+      "id": "slow-jesus-luke",
+      "working_title": "Slow With Jesus: The Gospel of Luke",
+      "format": "paperback",
+      "marketplace": "Amazon.com",
+      "status": "in_review",
+      "first_live_date": null,
+      "asin": null,
+      "amazon_url": null,
+      "series": "Slow With Jesus",
+      "notes": "Owner reports submitted and awaiting review."
+    },
+    {
+      "id": "slow-jesus-matthew",
+      "working_title": "Slow With Jesus: The Gospel of Matthew",
+      "format": "paperback",
+      "marketplace": "Amazon.com",
+      "status": "in_review",
+      "first_live_date": null,
+      "asin": null,
+      "amazon_url": null,
+      "series": "Slow With Jesus",
+      "notes": "Owner reports submitted and awaiting review."
+    }
+  ]
+}
