@@ -1,0 +1,4 @@
+interface:
+  display_name: "KDP Portfolio Optimization"
+  short_description: "Audit live KDP titles, measure reports, and plan careful listing tests"
+  default_prompt: "Use $kdp-portfolio-optimization to review my live KDP books and in-review launches using the verified catalog, current Amazon rules, actual KDP/Ads reports if available, and a single evidence-based next experiment. Mark unknown metrics as unknown; never launch ads or edit listings without approval."

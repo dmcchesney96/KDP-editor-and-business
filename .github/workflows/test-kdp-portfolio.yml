@@ -1,0 +1,22 @@
+name: KDP portfolio safety checks
+on:
+  push:
+    paths:
+      - 'skills/kdp-portfolio-optimization/**'
+      - 'portfolio/catalog.json'
+      - '.github/workflows/test-kdp-portfolio.yml'
+  pull_request:
+    paths:
+      - 'skills/kdp-portfolio-optimization/**'
+      - 'portfolio/catalog.json'
+      - '.github/workflows/test-kdp-portfolio.yml'
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s skills/kdp-portfolio-optimization/tests -v
+      - run: python skills/kdp-portfolio-optimization/scripts/review_portfolio.py --catalog portfolio/catalog.json --as-of 2026-10-08

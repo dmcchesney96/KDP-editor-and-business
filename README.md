@@ -56,3 +56,11 @@ Project-specific strategy can live under `projects/` without changing the reusab
 - `projects/abc-of-the-bible/launch-handoff.md` — current activity-book positioning, print spec, metadata hypotheses, and pending launch gates.
 
 Large project print files remain in the owner’s project folder. Repository instructions and public observations are not account analytics.
+
+## Portfolio performance and experimentation
+
+- `skills/kdp-portfolio-optimization/` — launch health checks, evidence rules, safe KDP Orders/Ads report comparison, reproducible CLI and regression tests.
+- `portfolio/catalog.json` — owner-reported four-book working inventory; unknown ASINs/dates explicitly null.
+- `portfolio/README.md` — weekly workflow, report schemas, private export safety, experiment/observation templates.
+
+This public repo contains **no** live KDP account views or private reports. Organic page views and keyword search volumes must not be fabricated. Publishing capacity and editable fields follow current KDP help guidance; validate before posting or updating.
