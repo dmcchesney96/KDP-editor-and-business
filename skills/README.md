@@ -49,3 +49,7 @@ Current official Amazon KDP documentation outranks stale repository rules. Subje
 21. `kdp-listing-experiment-review` — actual KDP/Ads reports → weighted metrics and a bounded one-variable experiment.
 
 These supplement `kdp-publishing-package-validator`; a local file PASS is not KDP Previewer acceptance or physical proof approval. Respect the user's current authorization for draft, proof, publication, and advertising separately. Never infer account conversion from public rank or repository instructions.
+
+## Post-launch portfolio measurement
+
+22. `kdp-portfolio-optimization` — owner-reported catalog + actual processed KDP orders + Ads evidence + dated listing QA → conservative diagnosis, weekly portfolio report and one approved experiment hypothesis. Its stdlib CLI and regression tests are in `skills/kdp-portfolio-optimization/`; starting four-book catalog and operating SOP live in `portfolio/`. This orchestrates existing `kdp-listing-experiment-review` without replacing its ad attribution/profitability logic.
