@@ -56,3 +56,10 @@ Project-specific strategy can live under `projects/` without changing the reusab
 - `projects/abc-of-the-bible/launch-handoff.md` — current activity-book positioning, print spec, metadata hypotheses, and pending launch gates.
 
 Large project print files remain in the owner’s project folder. Repository instructions and public observations are not account analytics.
+
+
+## Post-launch book performance system
+The portfolio's post-launch sequence is:
+`kdp-portfolio-tracker → kdp-report-ingestion + kdp-discovery-diagnostic → kdp-growth-decision-review → kdp-listing-experiment-review`.
+
+See [operating guide](docs/post-launch-performance-system.md). This public repo only contains methods and templates; actual private account and ad-performance exports belong in owner-authorized private storage.
