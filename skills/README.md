@@ -49,3 +49,13 @@ Current official Amazon KDP documentation outranks stale repository rules. Subje
 21. `kdp-listing-experiment-review` — actual KDP/Ads reports → weighted metrics and a bounded one-variable experiment.
 
 These supplement `kdp-publishing-package-validator`; a local file PASS is not KDP Previewer acceptance or physical proof approval. Respect the user's current authorization for draft, proof, publication, and advertising separately. Never infer account conversion from public rank or repository instructions.
+
+
+## Post-launch portfolio performance (October 2026)
+22. `kdp-portfolio-tracker` — source-verified title+format inventory, release capacity, metadata versions, private review queue.
+23. `kdp-report-ingestion` — import and validate owner-authorized KDP Reports and Amazon Ads exports; keep raw data private.
+24. `kdp-discovery-diagnostic` — check retail visibility and search intent without inventing organic traffic.
+25. `kdp-growth-decision-review` — route observations and measurements into one bounded optimization action.
+
+Recommended loop: `portfolio tracker → report ingestion + discovery audit → growth decision → listing experiment review`.
+See `docs/post-launch-performance-system.md`. The existing `kdp-listing-experiment-review` owns metrics for individual Ads experiments and one-variable test design. Do not duplicate it.

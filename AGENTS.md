@@ -194,3 +194,20 @@ When adapting third-party open-source material:
 Initial market-research methods draw from MIT-licensed `rxpelle/kdp-scout`. See `docs/kdp-scout-adaptation.md` and `THIRD_PARTY_NOTICES.md`.
 
 The unrelated `kyverno/KDP` repository is a Kyverno Design Proposal repository, not an Amazon KDP publishing toolkit, and is not part of this system.
+
+
+## Post-launch performance loop (new)
+For live books, use a recurring, evidence-gated sequence:
+`kdp-portfolio-tracker → kdp-report-ingestion + kdp-discovery-diagnostic → kdp-growth-decision-review → kdp-listing-experiment-review`.
+
+This loop **extends**, not replaces, product development and publishing preflight. Never interpret a KDP zero-sales report as measured zero page views; KDP Reports lacks general organic impressions and detail-page conversion data. Use authorized Amazon Ads exports to measure **paid** impressions and clicks, and label manually observed retail search placement separately.
+
+Review suggested checkpoints D+3 (publication/search visibility), D+14 (initial signal), D+30 (evidence-based hypothesis), then monthly or by experiment. These are operating rhythms, not Amazon platform rules or statistically sufficient thresholds.
+
+**Privacy:** this is a public GitHub repository. Store raw KDP/Ads exports, account-specific royalties, spend, ASIN-to-account mapping and live commercial experiments in a private owner-authorized data workspace. The repository stores reusable methods and blank templates, never secrets or private commercial reports.
+
+New skill definitions:
+- `kdp-portfolio-tracker` — statuses, versions, release cadence, per-format title inventory.
+- `kdp-report-ingestion` — validated real KDP/Ads data with provenance.
+- `kdp-discovery-diagnostic` — buyer-search and listing visibility checks with explicit uncertainty.
+- `kdp-growth-decision-review` — evidence and economics → one next action.
